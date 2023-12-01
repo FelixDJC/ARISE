@@ -36,7 +36,7 @@ Recently, graph anomaly detection on attributed networks has attracted growing a
 </div>
 
 <div  align="center">    
-    Figure 1: Overall framework of NLGAD.
+    Figure 1: Overall framework of ARISE.
 </div>
 
 
