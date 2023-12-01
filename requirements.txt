@@ -1,0 +1,10 @@
+python==3.6.1
+dgl==0.4.1
+matplotlib==3.3.4
+networkx==2.5
+numpy==1.19.2
+pyparsing==2.4.7
+scikit-learn==0.24.1
+scipy==1.5.2
+sklearn==0.24.1
+torch==1.8.1
